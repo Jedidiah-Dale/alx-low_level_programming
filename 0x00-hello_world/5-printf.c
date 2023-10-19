@@ -3,11 +3,11 @@
 /**
  * main - this is the main function
  *
- * Return: always 0
+ * Return: 0 when successful
  */
 
 int main(void)
 {
-	puts"\"Programming is like building a multilingual puzzle");
+	printf("with proper gramar, but outcome is a piece of art,\");
 	return (0);
 }
